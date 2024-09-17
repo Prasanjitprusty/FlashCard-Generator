@@ -30,8 +30,11 @@ Flashcard Generator is built using the following technologies:
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/Prasanjitprusty/FlashCard-Generator.git
+# Git Hub 
+`https://github.com/Prasanjitprusty/FlashCard-Generator.git`
+ 
+## Netlify
+`https://flashcardgenerator1234.netlify.app`
 
 # Go into the repository
 $ cd Flashcard-Generator-Almabetter
